@@ -1,0 +1,33 @@
+﻿TAXON,FAMILY,TYPE,ANY21.055,ANY21.145,ANY21.195,ANY21.235,ANY21.255,ANY21.365,ANY21.475
+depth,DEPTH,99_CORE,55,145,195,235,255,365,475
+wt,WEIGHT,99_CORE,5,5,5,5,5,5,5
+Lyco_add,TRACER,99_CORE,57138,57138,57138,57138,57138,57138,57138
+LYCO_n,TRACER,99_CORE,100,123,27,11,160,109,194
+IND_NID-monocot,IND_NID,99_CORE,,3,4,3,,,
+IND_NID-dicot,IND_NID,99_CORE,6,23,11,3,1,11,1
+Monolete Pteridophyta,Pteridophyta,00_FERN,1,10,14,2,,1,
+Trilete Undiff.,Pteridophyta,00_FERN,,9,22,9,,,
+Poaceae Undiff.,Poaceae,02_TMON,,4,,,,,
+Cyperaceae Undiff.,Cyperaceae,01_WMON,,,,,,1,
+Typha,Typhaceae,01_WMON,1,,1,,,,
+Ancistrophyllum,Arecaceae,03_PALM,,1,,,,,
+Elaeis guineensis,Arecaceae,03_PALM,,2,,1,,,
+Aizoaceae undiff.,Aizoaceae,04_HRFB,,1,,,,,
+Amaranthaceae,Amaranthaceae,04_HRFB,,1,,,,,
+Asteraceae Undiff.,Asteraceae,04_HRFB,1,2,1,1,,2,
+Comb/Mel,Combretaceae-Melastomataceae,08_VAR,,,2,4,,,
+Convolvulaceae,Convolvulaceae,07_CLPR,,1,1,,,,
+Ebenaceae,Ebenaceae,06_TRSH,,,1,,,,
+Alchornea,Euphorbiaceae,05_PTSH,,,,1,,,
+Macaranga,Euphorbiaceae,05_PTSH,,,4,,,,
+Vitex,Lamiaceae,06_TRSH,,,1,,,,
+Ipomoea-type,Malvaceae,07_CLPR,,1,,,,,
+Myrica,Myricaceae,06_TRSH,,,,1,,,
+Onagraceae undiff.,Onagraceae,04_HRFB,,,,,1,,
+Uapaca,Phyllanthaceae,06_TRSH,,2,,,,,
+Podocarpus bladder,Podocarpaceae,06_TRSH,,,,,,1,
+Rubiaceae,Rubiaceae,08_VAR,,1,,,,,
+Allophylus,Sapindaceae,07_CLPR,,1,,,,,
+Solanum,Solanaceae,04_HRFB,,2,,,,,
+Musanga/Myrianthus,Urticaceae,06_TRSH,,,,1,,,
+UNKNOWN,UNKNOWN,99_CORE,0,3,0,1,1,0,0
